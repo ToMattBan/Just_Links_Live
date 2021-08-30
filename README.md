@@ -5,7 +5,7 @@ Click in the **image** to go to the live demo of the project
 
 ---
 
-### [Tablea Periódica](https://github.com/ToMattBan/periodic-table/)
+### [Tabela Periódica](https://github.com/ToMattBan/periodic-table/)
 <a href="https://tomattban.github.io/periodic-table/"><img src="https://github.com/ToMattBan/Just_Links_Live/blob/ec360ca74db4f378f9826ae320b579281de30654/Tabela_Pediodica.png" /></a>
 
 ---
